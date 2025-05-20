@@ -14,7 +14,6 @@ This project implements an algorithm to compute the longest weighted path in a D
 - Google Colab or other platform for Python coding
 
 ## Example 
-Circuit:
+Circuit and Result:
 ![image](https://github.com/user-attachments/assets/2221673a-0323-4fcf-8fa3-6c8df33207da)
-Result:
 ![image](https://github.com/user-attachments/assets/b9cd3e10-f035-4d45-a79e-6997694f9b65)
